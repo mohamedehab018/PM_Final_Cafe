@@ -89,9 +89,9 @@ Every transition is written to an audit trail (`OrderStatusHistory`), and every 
 A sample of the 170+ real product photos already shipped with the project's seeded catalog:
 
 <div align="center">
-<img src="backend/media/products/bbq-chicken-pizza.jpg" width="30%" alt="BBQ Chicken Pizza"/>
-<img src="backend/media/products/seafood-pasta.jpg" width="30%" alt="Seafood Pasta"/>
-<img src="backend/media/products/vanilla-iced-coffee.jpg" width="30%" alt="Vanilla Iced Coffee"/>
+<img src="backend/media/products/bacon-ranch.jpeg" width="30%" alt="bacon-ranch baked potato"/>
+<img src="backend/media/products/burger-bacon-burger.jpeg" width="30%" alt="burger-bacon-burger"/>
+<img src="backend/media/products/pizza-meat-lovers.jpeg" width="30%" alt="pizza-meat-lovers"/>
 </div>
 
 ## 📱 App Screens
