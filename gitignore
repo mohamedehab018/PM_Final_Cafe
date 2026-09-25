@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+backend/dev.sqlite3
+
+# Secrets - never push real credentials
+backend/.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Logs
+startup.log
